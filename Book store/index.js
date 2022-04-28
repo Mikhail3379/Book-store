@@ -47,6 +47,7 @@ var shoppingCart = (function() {
           break;
         }
       }
+        saveCart();
     };
     // Remove item from cart
     obj.removeItemFromCart = function(name) {
