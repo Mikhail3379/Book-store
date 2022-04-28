@@ -1,8 +1,12 @@
 body {
     padding-top: 80px;
   }
-  
-  .show-cart li {
+
+  h1, h2 {
+    text-align: center;
+    color: green;
+  }
+.show-cart li {
     display: flex;
   }
   .card {
